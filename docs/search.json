@@ -9,9 +9,9 @@
   {
     "objectID": "posts/jupyter-test/test.html",
     "href": "posts/jupyter-test/test.html",
-    "title": "myblog",
+    "title": "Jupyter Notebook is published!",
     "section": "",
-    "text": "import math\n\n\\[ f(x) = \\int^{0}x+y \\]"
+    "text": "Hello see my formula\n\\[ f(x) = \\int^{0}x+y \\]"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "myblog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 3, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 31, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 3, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJupyter Notebook is published!\n\n\n\n\n\n\n\n\n\n\n\n\nOct 31, 2022\n\n\nChristian Ropbinson\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 31, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
