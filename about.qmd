@@ -1,18 +1,18 @@
 ---
 title: "About"
-image: profile.jpg
+image: profile1.jpg
 about:
   template: jolla
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/crobinson96_
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/christian-robinson/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/christian-robinson
 
 ---
 
