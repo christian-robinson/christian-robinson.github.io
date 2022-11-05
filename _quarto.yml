@@ -3,14 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "christianrobinson.blog"
+  title: "Christian Robinson"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com/
+        href: https://github.com/christian-robinson
 format:
   html:
     theme: flatly
